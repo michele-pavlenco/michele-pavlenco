@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @michele-pavlenco
-- 👀 I’m interested to learn more Frontend tecnologies 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Drupal 
 - 📫 How to reach me? michelepavlenco.mp@gmail.com
 
 <!---
